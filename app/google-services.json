@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "679411242072",
+    "project_id": "recyclerinfo-3b09f",
+    "storage_bucket": "recyclerinfo-3b09f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679411242072:android:4fa4a2bec92ce1f58f262d",
+        "android_client_info": {
+          "package_name": "com.example.recyclerfromfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwMUyq9aNXPQ9nxLyVMj8jRi8qsCLgh-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
